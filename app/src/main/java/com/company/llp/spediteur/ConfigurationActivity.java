@@ -29,6 +29,10 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import com.company.llp.spediteur.common.model.SettingBean;
+import com.company.llp.spediteur.service.ConfigurationDAOImpl;
+import com.company.llp.spediteur.service.interfaces.IConfigurationDAO;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -51,6 +55,7 @@ public class ConfigurationActivity extends AppCompatActivity  {
     private View mProgressView;
     private View mLoginFormView;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -58,6 +63,9 @@ public class ConfigurationActivity extends AppCompatActivity  {
         // Set up the login form.
 
     }
+
+
+
 
 
 

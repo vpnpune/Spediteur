@@ -14,4 +14,20 @@
         completions."
     </string>
     <string name="title_activity_configuration">Spediteur Configuration</string>
+    <string name="title_activity_server_setttings">ServerSetttings</string>
+
+    <string name="id">Column_Id</string>
+    <string name="app_id">Application Id</string>
+    <string name="extraction_key">Extraction Key</string>
+    <string name="server_url">Server URL</string>
+    <string name="is_enabled">Server ON/OFF</string>
+
+    <string name="prompt_applicationKey">Application Id</string>
+    <string name="prompt_extractionURL">Extraction KEY</string>
+    <string name="prompt_serverUrl">Server Url</string>
+
+    <string name="saveSettings">Save</string>
+
+
+
 </resources>
